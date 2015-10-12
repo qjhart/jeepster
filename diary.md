@@ -1,3 +1,17 @@
+## 2015-10-11 qjhart 3.5 hrs
+
+Connal and I pulled out the gas tank.  There is a bit of scum in the bottom of the tank, which I think was floating on the surface of the gas.  Otherwise looks very clean.  I'm thinking of ways to get a better view of the whole thing.  Maybe a camera scope ($250 :).
+
+We cleaned up the outside, looks very nice.  We also removed the hood, and cleaned a bit of the front engine.  Despite the info we received in Nikki's cache, it looks like we have an original Willys Jeep engine. 
+
+The distributor cap, and all the wires are brand new. I bet the plugs will be as well, though they show considerably more rust.
+
+Also cleaned the back a bit.  There is quite a bit of rust in the interior of the car.  Need a plan for that.
+
+We started some molassess soaks as a test.
+
+
+
 ## 2015-10-09 qjhart 2hrs
 
 First day of working on the Jeepster renovation.  My goal is just to get the old fluids, and junk to the hazardous waste site over the weekend.

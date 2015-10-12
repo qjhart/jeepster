@@ -8,7 +8,9 @@ The distributor cap, and all the wires are brand new. I bet the plugs will be as
 
 Also cleaned the back a bit.  There is quite a bit of rust in the interior of the car.  Need a plan for that.
 
-We started some molassess soaks as a test.
+We started some molasses soaks as a test.
+
+I'm thinking that we can use birch plywood panels in the interior of the car.  sand blasted aluminum is another idea.  
 
 
 

@@ -1,23 +1,92 @@
 * Jeepster
 
+This is a 1948 Jeepster, serial number: 463-77220.  This car belonged to my wife
+thoughout high-school in the 80's.  When she went to college it was given to a
+family friend who put it in their garage and forgot about it.  30 years later,
+they reached out,and gave it back to us. We've done pretty much the same for the
+last ten years as well, but we have made enough repairs to get it up and running
+around the town.
+
+When we took ownership, it didn't have a title, but we had enough proof of
+ownership that we received a provisional title, which is now valid.
+
+The original color was fire engine red, but it's been painted at least twice
+since then.  In some of the pictures, it looks patinaed, but really it's more of
+a copper color paint that hasn't been renewed.
+
+[[file:repairs][Repairs / Replacements]]
+
+We don't have any real skills in refurbishing cars, so we pretty much tried to follow
+the hypocrite oath of "First, do no harm".  Most of the repairs we did work on
+were to get the car able to run around our little town.
+
+Here is a list of the items we worked on.
+
+*** Electrical
+**** New Wiring
+**** Tail lights
+
+*** Body
+**** New Ragtop
+**** Interior Placeholders
+**** Re-attached Driver's seat
+**** Cleaned gas tank / New sender
+**** New engine Thermal thing
+
+*** Engine
+**** Exhaust
+
+**** Radiator Hot Bath
+
+*** Brakes
+**** New Cylinder
+
+**** Cleaned lines
+
+**** New flexible components
+
+*** Instrument Panel
+**** Added voltage converter
+
+**** Refurbed gauges
+
+**** Refurbed speedometer / odometer
+
+** Non-Standard
+
+There are number of things that aren't from the original car:
+
+*** Wrong carburator
+
+*** Wheels are different size
+
+*** 12 Volt
+
+*** Wrong steering wheel
+
+*** Missing Oil filter
+
+** Outstanding Mechanical Issues
+*** Overdrive isn't working
+*** Hood attachment
+
+** Informational
+
 The 1948 Jeepster, known internally as the VJ-2) and as the VJ-673 in the
 mechanic's manual.  Our jeepster has the original 4 cylinder "Go-Devil" L-134
 engine.  Ours has no oil filter, which was optional.
 
-Our serial number is 77220 (I think). The serial number plate is in pretty bad
-shape. It was found behind the glove box however.
-
-** Good parts sites
+*** Good parts sites
 
    [[http://www.kaiserwillys.com/about_willys_jeepster_vj_history_spec][Keaier Willy's Jeepster Specs]]
    [[http://www.willysamerica.com/][Willy's America]]
 
-** Informational Links
+*** Informational Links
 
    [[https://www.hemmings.com/blog/article/1948-1951-jeepster/][Heemings re. Jeepsters]]
    [[https://en.wikipedia.org/wiki/Willys-Overland_Jeepster#1948][Wikipedia]]
 
-** Lubrication
+*** Lubrication
 
 | Unit                  | Type Lube             | Winter | Summer |         |
 |-----------------------+-----------------------+--------+--------+---------|
@@ -36,42 +105,3 @@ shape. It was found behind the glove box however.
 | Starter               | Engine Oil            |        |        |         |
 | Clutch                | Steering Gear Oil     |        |        |         |
 | Engine                |                       |        |        | 4qts    |
-
-** Notes
-
-*** 2015-10-11
-
- Connal and I pulled out the gas tank.  There is a bit of scum in the bottom of
- the tank, which I think was floating on the surface of the gas.  Otherwise
- looks very clean.  I'm thinking of ways to get a better view of the whole
- thing.
-
- We cleaned up the outside, looks very nice.  We also removed the hood, and
- cleaned a bit of the front engine.  Despite the info we received in Nikki's
- cache, it looks like we have an original Willys Jeep engine.
-
- The distributor cap, and all the wires are brand new. I bet the plugs will be
- as well, though they show considerably more rust.
-
- Also cleaned the back a bit.  There is quite a bit of rust in the interior of
- the car.  Need a plan for that.
-
- We started some molasses soaks as a test.
-
- I'm thinking that we can use birch plywood panels in the interior of the car.
- sand blasted aluminum is another idea.
-
-
-*** 2015-10-09
-
- First day of working on the Jeepster renovation.  My goal is just to get the
- old fluids, and junk to the hazardous waste site over the weekend.
-
- First, I drained the gas.  There still was about 3 gallons in the tank.  It
- came out a beautiful red color, and wasn't too sedimenty until the very end.
- Have see a few differenet methods of cleaning the tank.  Will remove it once I
- figure out the locked gas cap
-
- Next drained about 4 qts of blueish oil from the engine, and then about 3
- quarts of normal looking radiator fluid.  Still need to look at the brakes, and
- remove the oil filter, gas filter, spark plugs.

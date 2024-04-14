@@ -1,14 +1,13 @@
 * Jeepster
 
-This is a 1948 Jeepster, serial number: 463-77220.  This car belonged to my wife
-thoughout high-school in the 80's.  When she went to college it was given to a
-family friend who put it in their garage and forgot about it.  30 years later,
-they reached out,and gave it back to us. We've done pretty much the same for the
-last ten years as well, but we have made enough repairs to get it up and running
-around the town.
+This is a 1948 Jeepster, serial number: 463-77220, in Davis, CA.
 
-When we took ownership, it didn't have a title, but we had enough proof of
-ownership that we received a provisional title, which is now valid.
+This car belonged to my wife thoughout high-school in the 80's, (It still has
+her HS [[file:parking_sticker.jpg][Parking Sticker]]) When she went to college it was given to a family friend
+who put it in their garage and forgot about it.  30 years later, they reached
+out,and gave it back to us. We've done pretty much the same for the last ten
+years as well, but we have made enough repairs to get it up and running around
+the town.
 
 The original color was fire engine red, but it's been painted at least twice
 since then.  In some of the pictures, it looks patinaed, but really it's more of
@@ -17,7 +16,7 @@ a copper color paint that hasn't been renewed.
 [[file:repairs][Repairs / Replacements]]
 
 We don't have any real skills in refurbishing cars, so we pretty much tried to follow
-the hypocrite oath of "First, do no harm".  Most of the repairs we did work on
+the hypocratic oath of "First, do no harm".  Most of the repairs we did work on
 were to get the car able to run around our little town.
 
 Here is a list of the items we worked on.
@@ -45,7 +44,7 @@ Here is a list of the items we worked on.
 
 **** New flexible components
 
-*** Instrument Panel
+*** [[file:cockpit/instrument-panel][Instrument Panel]]
 **** Added voltage converter
 
 **** Refurbed gauges
@@ -75,6 +74,10 @@ There are number of things that aren't from the original car:
 The 1948 Jeepster, known internally as the VJ-2) and as the VJ-673 in the
 mechanic's manual.  Our jeepster has the original 4 cylinder "Go-Devil" L-134
 engine.  Ours has no oil filter, which was optional.
+
+When we took ownership, it didn't have a title, but we had enough proof of
+ownership that we received a provisional title, which is now valid.
+
 
 *** Good parts sites
 

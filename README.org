@@ -2,6 +2,11 @@
 
 This is a 1948 Jeepster, serial number: 463-77220, in Davis, CA.
 
+#+CAPTION: Parking Sticker
+#+NAME:   fig:parking_sticker
+#+ATTR_HTML: :width 300px
+[[file:parking_sticker.jpg]]
+
 This car belonged to my wife thoughout high-school in the 80's, (It still has
 her HS [[file:parking_sticker.jpg][Parking Sticker]]) When she went to college it was given to a family friend
 who put it in their garage and forgot about it.  30 years later, they reached

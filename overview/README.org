@@ -11,15 +11,7 @@ The original color was fire engine red, but it's been painted at least twice
 since then.  In some of the pictures, it looks patinaed, but really it's more of
 a copper color paint that hasn't been renewed.
 
-
-|                                           |                                      |                                            |                                      |
-|-------------------------------------------+--------------------------------------+--------------------------------------------+--------------------------------------|
-| <img src="right_rear.jpg" width="100px"/> | <img src="right.jpg" width="100px"/> | <img src="right_front.jpg" width="100px"/> | <img src="front.jpg" width="100px"/> |
-|                                           |                                      |                                            |                                      |
-
-
-|                                           |                |                      |                |
-|-------------------------------------------+----------------+----------------------+----------------|
-| [[file:right_rear.jpg]]                       | [[file:right.jpg]] | [[file:right_front.jpg]] | [[file:front.jpg]] |
-| [[file:left_front.jpg]]                       | [[file:left.jpg]]  | [[file:left_rear.jpg]]   | [[file:front.jpg]] |
-#+ATTR_HTML: :width 100px
+|---------------------+----------------+----------------------+----------------|
+| [[file:right_rear.jpg][file:right_rear.jpg]] | [[file:right.jpg]] | [[file:right_front.jpg]] | [[file:front.jpg]] |
+| [[file:left_front.jpg]] | [[file:left.jpg]]  | [[file:left_rear.jpg]]   | [[file:rear.jpg]]  |
+#+ATTR_HTML: :width 150px

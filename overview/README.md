@@ -1,10 +1,10 @@
 
 # Table of Contents
 
-1.  [Overview](#orgfbff5aa)
+1.  [Overview](#orgd5fc0d0)
 
 
-<a id="orgfbff5aa"></a>
+<a id="orgd5fc0d0"></a>
 
 # Overview
 
@@ -31,57 +31,9 @@ a copper color paint that hasn&rsquo;t been renewed.
 
 <col  class="org-left" />
 </colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-</tr>
-</thead>
-
 <tbody>
 <tr>
-<td class="org-left">&lt;img src=&ldquo;right<sub>rear.jpg</sub>&rdquo; width=&ldquo;100px&rdquo;/&gt;</td>
-<td class="org-left">&lt;img src=&ldquo;right.jpg&rdquo; width=&ldquo;100px&rdquo;/&gt;</td>
-<td class="org-left">&lt;img src=&ldquo;right<sub>front.jpg</sub>&rdquo; width=&ldquo;100px&rdquo;/&gt;</td>
-<td class="org-left">&lt;img src=&ldquo;front.jpg&rdquo; width=&ldquo;100px&rdquo;/&gt;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">&#xa0;</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left"><img src="right_rear.jpg" alt="right_rear.jpg" /></td>
+<td class="org-left"><a href="right_rear.jpg"><img src="right_rear.jpg" alt="right_rear.jpg" /></a></td>
 <td class="org-left"><img src="right.jpg" alt="right.jpg" /></td>
 <td class="org-left"><img src="right_front.jpg" alt="right_front.jpg" /></td>
 <td class="org-left"><img src="front.jpg" alt="front.jpg" /></td>
@@ -92,7 +44,7 @@ a copper color paint that hasn&rsquo;t been renewed.
 <td class="org-left"><img src="left_front.jpg" alt="left_front.jpg" /></td>
 <td class="org-left"><img src="left.jpg" alt="left.jpg" /></td>
 <td class="org-left"><img src="left_rear.jpg" alt="left_rear.jpg" /></td>
-<td class="org-left"><img src="front.jpg" alt="front.jpg" /></td>
+<td class="org-left"><img src="rear.jpg" alt="rear.jpg" /></td>
 </tr>
 </tbody>
 </table>

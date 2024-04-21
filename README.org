@@ -7,16 +7,7 @@ This is a 1948 Jeepster, serial number: 463-77220, in Davis, CA.
 #+ATTR_HTML: :width 150px
 [[file:overview/right.jpg]]
 
-This car belonged to my wife thoughout high-school in the 80's, (It still has
- HS [[file:parking_sticker.jpg][Parking Sticker]]) When she went to college it was given to a family friend
-who put it in their garage and forgot about it.  30 years later, they reached
-out,and gave it back to us. We've done pretty much the same for the last ten
-years as well, but we have made enough repairs to get it up and running around
-the town.
-
-The original color was fire engine red, but it's been painted at least twice
-since then.  In some of the pictures, it looks patinaed, but really it's more of
-a copper color paint that hasn't been renewed.
+There are more images in the [[file:overview/README.md][Overview Section]].
 
 [[file:repairs][Repairs / Replacements]]
 

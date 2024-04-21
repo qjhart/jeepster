@@ -1,28 +1,28 @@
 
 # Table of Contents
 
-1.  [Jeepster](#org862d86e)
-        1.  [Electrical](#org487cc44)
-        2.  [Body](#org2eef9ec)
-        3.  [Engine](#org7c05a55)
-        4.  [Brakes](#org982184f)
-        5.  [Instrument Panel](#org21fb9cc)
-    1.  [Non-Standard](#orge55d84e)
-        1.  [Wrong carburator](#org575659b)
-        2.  [Wheels are different size](#org275a0b7)
-        3.  [12 Volt](#orgbd81164)
-        4.  [Wrong steering wheel](#orga9785f8)
-        5.  [Missing Oil filter](#org214e5f4)
-    2.  [Outstanding Mechanical Issues](#org740aed5)
-        1.  [Overdrive isn&rsquo;t working](#orgb1d5495)
-        2.  [Hood attachment](#org6d871d1)
-    3.  [Informational](#orgf2e2e1f)
-        1.  [Good parts sites](#org27a3f48)
-        2.  [Informational Links](#org6eb547b)
-        3.  [Lubrication](#org41bbc36)
+1.  [Jeepster](#org54d3973)
+        1.  [Electrical](#orgdc0649d)
+        2.  [Body](#org5c53c4d)
+        3.  [Engine](#org3b68cab)
+        4.  [Brakes](#orgbf8e7d9)
+        5.  [Instrument Panel](#org5f2cdf8)
+    1.  [Non-Standard](#orgeba81f6)
+        1.  [Wrong carburator](#orga198816)
+        2.  [Wheels are different size](#org40d034f)
+        3.  [12 Volt](#org18f82ec)
+        4.  [Wrong steering wheel](#orgc3323c6)
+        5.  [Missing Oil filter](#org71c258f)
+    2.  [Outstanding Mechanical Issues](#org4cbe8c6)
+        1.  [Overdrive isn&rsquo;t working](#org3ce15fd)
+        2.  [Hood attachment](#orgd763772)
+    3.  [Informational](#org9818785)
+        1.  [Good parts sites](#org8955bd1)
+        2.  [Informational Links](#orgba5241f)
+        3.  [Lubrication](#org12c817d)
 
 
-<a id="org862d86e"></a>
+<a id="org54d3973"></a>
 
 # Jeepster
 
@@ -30,16 +30,7 @@ This is a 1948 Jeepster, serial number: 463-77220, in Davis, CA.
 
 ![img](overview/right.jpg "Jeepster")
 
-This car belonged to my wife thoughout high-school in the 80&rsquo;s, (It still has
- HS [Parking Sticker](parking_sticker.jpg)) When she went to college it was given to a family friend
-who put it in their garage and forgot about it.  30 years later, they reached
-out,and gave it back to us. We&rsquo;ve done pretty much the same for the last ten
-years as well, but we have made enough repairs to get it up and running around
-the town.
-
-The original color was fire engine red, but it&rsquo;s been painted at least twice
-since then.  In some of the pictures, it looks patinaed, but really it&rsquo;s more of
-a copper color paint that hasn&rsquo;t been renewed.
+There are more images in the [Overview Section](overview/README.md).
 
 [Repairs / Replacements](repairs)
 
@@ -50,7 +41,7 @@ were to get the car able to run around our little town.
 Here is a list of the items we worked on.
 
 
-<a id="org487cc44"></a>
+<a id="orgdc0649d"></a>
 
 ### Electrical
 
@@ -59,7 +50,7 @@ Here is a list of the items we worked on.
 2.  Tail lights
 
 
-<a id="org2eef9ec"></a>
+<a id="org5c53c4d"></a>
 
 ### Body
 
@@ -74,7 +65,7 @@ Here is a list of the items we worked on.
 5.  New engine Thermal thing
 
 
-<a id="org7c05a55"></a>
+<a id="org3b68cab"></a>
 
 ### Engine
 
@@ -83,7 +74,7 @@ Here is a list of the items we worked on.
 2.  Radiator Hot Bath
 
 
-<a id="org982184f"></a>
+<a id="orgbf8e7d9"></a>
 
 ### Brakes
 
@@ -94,7 +85,7 @@ Here is a list of the items we worked on.
 3.  New flexible components
 
 
-<a id="org21fb9cc"></a>
+<a id="org5f2cdf8"></a>
 
 ### [Instrument Panel](cockpit/instrument-panel)
 
@@ -105,54 +96,54 @@ Here is a list of the items we worked on.
 3.  Refurbed speedometer / odometer
 
 
-<a id="orge55d84e"></a>
+<a id="orgeba81f6"></a>
 
 ## Non-Standard
 
 There are number of things that aren&rsquo;t from the original car:
 
 
-<a id="org575659b"></a>
+<a id="orga198816"></a>
 
 ### Wrong carburator
 
 
-<a id="org275a0b7"></a>
+<a id="org40d034f"></a>
 
 ### Wheels are different size
 
 
-<a id="orgbd81164"></a>
+<a id="org18f82ec"></a>
 
 ### 12 Volt
 
 
-<a id="orga9785f8"></a>
+<a id="orgc3323c6"></a>
 
 ### Wrong steering wheel
 
 
-<a id="org214e5f4"></a>
+<a id="org71c258f"></a>
 
 ### Missing Oil filter
 
 
-<a id="org740aed5"></a>
+<a id="org4cbe8c6"></a>
 
 ## Outstanding Mechanical Issues
 
 
-<a id="orgb1d5495"></a>
+<a id="org3ce15fd"></a>
 
 ### Overdrive isn&rsquo;t working
 
 
-<a id="org6d871d1"></a>
+<a id="orgd763772"></a>
 
 ### Hood attachment
 
 
-<a id="orgf2e2e1f"></a>
+<a id="org9818785"></a>
 
 ## Informational
 
@@ -164,7 +155,7 @@ When we took ownership, it didn&rsquo;t have a title, but we had enough proof of
 ownership that we received a provisional title, which is now valid.
 
 
-<a id="org27a3f48"></a>
+<a id="org8955bd1"></a>
 
 ### Good parts sites
 
@@ -172,7 +163,7 @@ ownership that we received a provisional title, which is now valid.
 [Willy&rsquo;s America](http://www.willysamerica.com/)
 
 
-<a id="org6eb547b"></a>
+<a id="orgba5241f"></a>
 
 ### Informational Links
 
@@ -180,7 +171,7 @@ ownership that we received a provisional title, which is now valid.
 [Wikipedia](https://en.wikipedia.org/wiki/Willys-Overland_Jeepster#1948)
 
 
-<a id="org41bbc36"></a>
+<a id="org12c817d"></a>
 
 ### Lubrication
 

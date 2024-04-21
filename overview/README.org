@@ -15,3 +15,8 @@ a copper color paint that hasn't been renewed.
 | [[file:right_rear.jpg][file:right_rear.jpg]] | [[file:right.jpg]] | [[file:right_front.jpg]] | [[file:front.jpg]] |
 | [[file:left_front.jpg]] | [[file:left.jpg]]  | [[file:left_rear.jpg]]   | [[file:rear.jpg]]  |
 #+ATTR_HTML: :width 150px
+
+|---------------------+----------------+----------------------|
+| [[file:right_rear.jpg][file:right_rear.jpg]] | [[file:right.jpg]] | [[file:right_front.jpg]] |
+| [[file:left_front.jpg]] | [[file:left.jpg]]  | [[file:left_rear.jpg]]   |
+| [[file:front.jpg]]      | [[file:rear.jpg]]  | [[file:top_rear.jpg]]    |
